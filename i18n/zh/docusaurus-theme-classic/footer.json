@@ -36,7 +36,7 @@
     "description": "The label of footer link with label=Contact Us linking to /contact-us/"
   },
   "copyright": {
-    "message": "Copyright © 2022 Rooch Network. Built with Docusaurus.",
+    "message": "Copyright © 2023 Rooch Network. Built with Docusaurus.",
     "description": "The footer copyright"
   },
   "link.title.Social Media": {
